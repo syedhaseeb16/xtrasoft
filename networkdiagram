@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T08:27:54.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.72" etag="dMSrRMedmYNk8D_c8BbS" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T08:29:58.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.72" etag="7cP6JrJ5Fwcm50DMYqOr" version="15.6.8" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="1320" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="660" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,6 +110,15 @@
         </mxCell>
         <mxCell id="8so0RBQ6n4l5-5y7hl-E-48" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=21;strokeColor=default;strokeWidth=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-90" width="640" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="8so0RBQ6n4l5-5y7hl-E-53" value="Account creation Req." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=21;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="-54.76999999999998" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8so0RBQ6n4l5-5y7hl-E-54" value="Account&amp;nbsp; verification Req." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=21;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="15.230000000000018" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8so0RBQ6n4l5-5y7hl-E-55" value="req. for data Api" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=21;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="105.23000000000002" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
