@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T11:49:35.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.72" etag="0LRN-Bv3Jec03h3fGgEW" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T11:50:25.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.72" etag="AIfxRPT_K5L5JoT4vCBt" version="15.7.0" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="-614" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="2950" y="194" width="69" height="69" as="geometry" />
         </mxCell>
         <mxCell id="dH5C_h9GHxYKMwdOc4u7-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__instagram_-128.png;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3004" y="201" width="62" height="62" as="geometry" />
+          <mxGeometry x="3030" y="210" width="62" height="62" as="geometry" />
         </mxCell>
         <mxCell id="dH5C_h9GHxYKMwdOc4u7-51" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;one lamda is responsible to handle one Social media.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="2394" y="308" width="290" height="190" as="geometry" />
@@ -118,14 +118,11 @@
         <mxCell id="VS2IV-d9Hh8Zhi0sW-VY-17" value="Lambda Function N" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda_function;rounded=1;shadow=0;labelBackgroundColor=none;fillStyle=solid;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="VS2IV-d9Hh8Zhi0sW-VY-19">
           <mxGeometry x="112" y="290.9013605442177" width="81.12244897959184" height="81.12244897959184" as="geometry" />
         </mxCell>
-        <mxCell id="VS2IV-d9Hh8Zhi0sW-VY-20" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;rounded=1;shadow=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;sketch=1;fillStyle=solid;fontSize=16;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=17;fillColor=none;gradientColor=none;gradientDirection=north;align=center;imageBackground=none;imageBorder=none;" vertex="1" parent="1">
-          <mxGeometry x="2916" y="-160" width="120" height="120" as="geometry" />
+        <mxCell id="VS2IV-d9Hh8Zhi0sW-VY-23" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;rounded=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;sketch=1;fillStyle=solid;fontSize=16;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=17;fillColor=none;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="2908" y="-100" width="56" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VS2IV-d9Hh8Zhi0sW-VY-21" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;rounded=1;shadow=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;sketch=1;fillStyle=solid;fontSize=16;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=17;fillColor=none;gradientColor=none;gradientDirection=north;align=center;imageBackground=none;imageBorder=none;" vertex="1" parent="1">
-          <mxGeometry x="2831" y="-160" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="VS2IV-d9Hh8Zhi0sW-VY-22" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;rounded=1;shadow=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;sketch=1;fillStyle=solid;fontSize=16;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=17;fillColor=none;gradientColor=none;gradientDirection=north;align=center;imageBackground=none;imageBorder=none;" vertex="1" parent="1">
-          <mxGeometry x="3001" y="-160" width="120" height="120" as="geometry" />
+        <mxCell id="VS2IV-d9Hh8Zhi0sW-VY-24" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;rounded=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;sketch=1;fillStyle=solid;fontSize=16;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=17;fillColor=none;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="-81" width="123" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
